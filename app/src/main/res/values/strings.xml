@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Help!</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="pedir_ayuda">PEDIR AYUDA</string>
+    <string name="_21_steps_a_seguir">21 STEPS A SEGUIR</string>
+    <string name="alg_n_problema">¿Algún problema?</string>
+    <string name="te_podemos_ayudar">Te podemos ayudar</string>
+    <string name="no_te_quedes_callado">¡No te quedes callado!</string>
+    <string name="t_tambi_n_puedes_ayudar">Tú también puedes ayudar</string>
+    <string name="todo">TODO</string>
+    <string name="numergencia">Números de emergencia</string>
+    <string name="emergencias">Emergencias</string>
+    <string name="_911">911</string>
+    <string name="_060">060</string>
+    <string name="cruz_roja">Cruz Roja</string>
+    <string name="_065">065</string>
+    <string name="polic_a">Policía</string>
+    <string name="hazla_sonar">¡HAZLA SONAR!</string>
+    <string name="alarmita">Alarmita</string>
+    <string name="tira">Tira</string>
+    <string name="nueveonce">Nueveonce</string>
+    <string name="cruzro">Cruzro</string>
+    <string name="parasite">
+        	<b>1.	\n </b>
+        Violencia psicológica: considerada como cualquier acto que pueda disminuir la autoestima de la mujer y que la lleve a la depresión, o incluso al suicidio.
+	\n\n
+	<b>2.	\n </b>
+        Acoso u hostigamiento: cualquier tipo de comportamiento abusivo dirigido a perseguir, intimidar o chantajear a una mujer.
+	\n\n
+	<b>3.	\n </b>
+        Amenaza: anuncios o actos con el fin de causar un daño a futuro para intimidar a la mujer.
+	\n\n
+	<b>4.	\n </b>
+        Violencia física: todo acto que genere un daño o sufrimiento físico en la mujer.
+	\n\n
+	<b>5.	\n </b>
+        Violencia doméstica: cuando cualquier tipo de pariente o persona con la cual sostiene una relación afectiva agrede, amenaza o intimida a una mujer.
+	\n\n
+	<b>6.	\n </b>
+        Violencia sexual: aquella conducta que vaya en contra del libre derecho que tiene la mujer de decidir sobre su sexualidad.
+	\n\n
+	<b>7.	\n </b>
+        Acceso carnal violento: violencia de tipo sexual que consiste en introducir cualquier tipo de objeto u órgano en las partes íntimas de la mujer mediante violencia o amenaza.
+	\n\n
+	<b>8.	\n </b>
+        Prostitución forzada. Cuando obligan a la mujer a realizar actos sexuales para obtener un beneficio económico.
+	\n\n
+	<b>9.	\n </b>
+        Esclavitud sexual: cuando una mujer es vendida, intercambiada u obligada a realizar actos sexuales.
+	\n\n
+	<b>10.	\n </b>
+        Acoso sexual: cuando un individuo le exige a una mujer actos sexuales o cualquier otro comportamiento de la misma índole, bajo una amenaza o promesa de hacerle daño.
+	\n\n
+	<b>11.	\n </b>
+        Violencia laboral: Es aquella discriminación hacia la figura de la mujer en los centros de trabajo que obstaculicen su acceso al empleo, ascenso, estabilidad laboral, etc.
+	\n\n
+	<b>12.	\n </b>
+        Violencia patrimonial y económica: cualquier acción dirigida a producir limitaciones económicas para controlar sus ingresos.
+	\n\n
+	<b>13.	\n </b>
+        Violencia Obstétrica: cuando un profesional del área de la salud mantiene un trato deshumanizador, abuso de medicalización y patologización de los procesos naturales, resultando la pérdida de la autonomía de la mujer.
+	\n\n
+	<b>14.	\n </b>
+        Esterilización Forzada: cuando privan a la mujer de su capacidad biológica y reproductiva sin su consentimiento.
+	\n\n
+	<b>15.	\n </b>
+        Violencia Mediática: cuando la mujer es explotada, discriminada, deshonrada o humillada a través de cualquier medio de comunicación
+	\n\n
+	<b>16.	\n </b>
+        Violencia institucional: autoridades, instituciones, funcionarios, agentes, etc, retardan, obstaculizan o impiden el acceso a las políticas públicas que garantizan los derechos de la mujer.
+	\n\n
+	<b>17.	\n </b>
+        Violencia simbólica: cualquier tipo de mensaje o símbolo con el fin de transmitir desigualdad, discriminación y/o subordinación de la mujer en la sociedad.
+	\n\n
+	<b>18.	\n </b>
+        Tráfico de mujeres, niñas y adolescentes: captura, reclutamiento o transporte entre fronteras para obtener un beneficio.
+	\n\n
+	<b>19.	\n </b>
+        Trata de mujeres, niñas y adolescentes: Todo proceso para llevar a una mujer, niña o adolescente a la explotación sexual.
+	\n\n
+	<b>20.	\n </b>
+        Inducción o ayuda al suicidio: se considera como una consecuencia extrema de la violencia psicológica, acoso, hostigamiento y amenaza
+	\n\n
+	<b>21.	\n </b>
+        Femicidio: homicidio de una mujer por simplemente serlo.
+    \n\n
+    </string>
+    <string name="info">
+        <b>Aplicación creada para ayudarte en situaciones de peligro. </b> \n\n
+        Mayo 2020
+    </string>
+</resources>
